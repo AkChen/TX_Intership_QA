@@ -49,7 +49,27 @@
 - 转正率  
 网上的说法是总体50%，个人看法：好好干转正还是很有希望的，貌似个别特殊岗位转正率较低（如算法）
 
+- 大家一般是填写的入职时间前多少天收到具体的入职邮件啊?  
+三个工作日
+
+- 入职时间可以联系HR改吗  
+可以，发邮件就行了
 
 ##各个组织群二维码
-- 北京腾讯视频
-<img src="https://s1.ax1x.com/2020/04/15/JCiqzt.jpg" width="256"  alt="JCiqzt.jpg" border="0" />
+- 北京腾讯视频  
+<img src="https://s1.ax1x.com/2020/04/15/JCiqzt.jpg" height="300"  alt="JCiqzt.jpg" border="0" />
+
+- 深圳看点团队  
+<img src="https://s1.ax1x.com/2020/04/15/JCF9ij.jpg" height="300" alt="JCF9ij.jpg" border="0" />
+
+- 深圳腾讯视频  
+<a href="https://imgchr.com/i/JCFZeU"><img src="https://s1.ax1x.com/2020/04/15/JCFZeU.jpg" height="300" alt="JCFZeU.jpg" border="0" /></a>
+
+- 腾讯微视团队  
+<img src="https://s1.ax1x.com/2020/04/15/JCFaYd.jpg" height="300" alt="JCFaYd.jpg" border="0" />
+
+- 数据分析团队  
+<a href="https://imgchr.com/i/JCFrOf"><img src="https://s1.ax1x.com/2020/04/15/JCFrOf.jpg" height="300" alt="JCFrOf.jpg" border="0" /></a>
+
+- 深圳战略中心  
+<a href="https://imgchr.com/i/JCFLtJ"><img src="https://s1.ax1x.com/2020/04/15/JCFLtJ.png" height="300" alt="JCFLtJ.png" border="0" /></a>
