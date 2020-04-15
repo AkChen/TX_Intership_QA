@@ -49,3 +49,18 @@
 - 转正率  
 网上的说法是总体50%，个人看法：好好干转正还是很有希望的，貌似个别特殊岗位转正率较低（如算法）
 
+
+##各个组织群二维码
+- 北京腾讯视频
+![Image text](https://github.com/AkChen/TX_Intership_QA/beijing_tengxunshipin.png)
+
+- 深圳看点团队
+![Image text](https://github.com/AkChen/TX_Intership_QA/shenzhen_kandian.png)
+
+- 深圳腾讯视频
+![Image text](https://github.com/AkChen/TX_Intership_QA/shenzhen_tengxunshipin.png)
+
+- 深圳战略中心
+![Image text](https://github.com/AkChen/TX_Intership_QA/shenzhen_zhannuezhongxin.png)
+
+
