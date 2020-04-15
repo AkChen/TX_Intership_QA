@@ -80,4 +80,4 @@
 <a href="https://imgchr.com/i/JCFLtJ"><img src="https://s1.ax1x.com/2020/04/15/JCFLtJ.png" height="300" alt="JCFLtJ.png" border="0" /></a>
 
 - PCG研发部  
-<img src="https://s1.ax1x.com/2020/04/15/JPnwu9.png" alt="JPnwu9.png" border="0" />
+<img src="https://s1.ax1x.com/2020/04/15/JPnwu9.png" alt="JPnwu9.png" height = "300" border="0" />
