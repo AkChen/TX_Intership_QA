@@ -52,15 +52,4 @@
 
 ##各个组织群二维码
 - 北京腾讯视频
-![Image text](https://github.com/AkChen/TX_Intership_QA/blob/master/beijing_tengxunshipin.png) 
-
-- 深圳看点团队
-![Image text](https://github.com/AkChen/TX_Intership_QA/blob/master/shenzhen_kandian.png) 
-
-- 深圳腾讯视频
-![Image text](https://github.com/AkChen/TX_Intership_QA/blob/master/shenzhen_tengxunshipin.png) 
-
-- 深圳战略中心
-![Image text](https://github.com/AkChen/TX_Intership_QA/blob/master/shenzhen_zhannuezhongxin.png) 
-
-
+<img src="https://s1.ax1x.com/2020/04/15/JCiqzt.jpg" width="256"  alt="JCiqzt.jpg" border="0" />
