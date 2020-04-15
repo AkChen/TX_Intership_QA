@@ -81,3 +81,6 @@
 
 - PCG研发部  
 <img src="https://s1.ax1x.com/2020/04/15/JPnwu9.png" alt="JPnwu9.png" height = "300" border="0" />
+
+- PCG制片  
+<img src="https://s1.ax1x.com/2020/04/15/JPJma4.png" alt="JPJma4.png" height = "300" border="0" />
