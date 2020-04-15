@@ -61,6 +61,9 @@
 
 各个组织群二维码 
 ==
+- PCG微信群  
+<a href="https://imgchr.com/i/JPYhAe"><img src="https://s1.ax1x.com/2020/04/15/JPYhAe.jpg" height="300" alt="JPYhAe.jpg" border="0" /></a>
+
 - 北京腾讯视频  
 <img src="https://s1.ax1x.com/2020/04/15/JCiqzt.jpg" height="300"  alt="JCiqzt.jpg" border="0" />
 
@@ -83,4 +86,4 @@
 <img src="https://s1.ax1x.com/2020/04/15/JPnwu9.png" alt="JPnwu9.png" height = "300" border="0" />
 
 - PCG制片  
-<img src="https://s1.ax1x.com/2020/04/15/JPJma4.png" alt="JPJma4.png" border="0" height="300" />
+<img src="https://s1.ax1x.com/2020/04/15/JPYY60.png" alt="JPYY60.png" height="300"  border="0" />
