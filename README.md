@@ -100,4 +100,4 @@
 <img src="https://s1.ax1x.com/2020/04/15/JPYY60.png" alt="JPYY60.png" height="300"  border="0" />
 
 - 腾讯新闻暑期实习  
-<img src="https://s1.ax1x.com/2020/04/16/JFaNvj.jpg" alt="JFaNvj.jpg" height="300" border="0" />
+<img src="https://s1.ax1x.com/2020/04/16/JFdNFK.jpg" alt="JFdNFK.jpg"  height="300" border="0" />
