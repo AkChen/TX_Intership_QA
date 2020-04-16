@@ -62,6 +62,14 @@
 - 入职时间以什么为准？  
 如果没用leader加你就以Q星鹅的为准，如果有leader的联系方式，可以和leader协商，但是也得要以这个时间做入职相关流程。
 
+- Q星鹅不能选的入职时间能否联系HR修改？  
+每个入职时间的处理量都有上限，除非尽早修改，如果不行只能往后顺延。
+
+- Q星鹅不能进入？  
+很多同学都遇到了，貌似是最近不能验证的问题，待官方解决。
+
+
+
 各个组织群二维码 
 ==
 - PCG微信群  
@@ -90,3 +98,6 @@
 
 - PCG制片  
 <img src="https://s1.ax1x.com/2020/04/15/JPYY60.png" alt="JPYY60.png" height="300"  border="0" />
+
+- 腾讯新闻暑期实习  
+<img src="https://s1.ax1x.com/2020/04/16/JFaNvj.jpg" alt="JFaNvj.jpg" height="300" border="0" />
