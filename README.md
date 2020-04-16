@@ -68,6 +68,8 @@
 - Q星鹅不能进入？  
 很多同学都遇到了，貌似是最近不能验证的问题，待官方解决。
 
+- 工卡照要求  
+<img src="https://s1.ax1x.com/2020/04/16/JF0JPK.png" alt="JF0JPK.png" height="300" border="0" />
 
 
 各个组织群二维码 
