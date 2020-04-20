@@ -74,11 +74,10 @@
 各个组织群二维码 
 ==
 - PCG微信群  
-<img src="https://s1.ax1x.com/2020/04/20/J3ZxNq.jpg" alt="J3ZxNq.jpg" border="0" />
+<img src="https://s1.ax1x.com/2020/04/20/J3e65q.jpg" alt="J3e65q.jpg" height="300" border="0" />
 
 - 北京PCG新鹅  
-<img src="https://s1.ax1x.com/2020/04/20/J3ZccD.jpg" alt="J3ZccD.jpg" height="300" border="0" />
-
+<img src="https://s1.ax1x.com/2020/04/20/J3egP0.jpg" alt="J3egP0.jpg" height="300" border="0" />
 - 北京腾讯视频  
 <img src="https://s1.ax1x.com/2020/04/15/JCiqzt.jpg" height="300"  alt="JCiqzt.jpg" border="0" />
 
